@@ -1,0 +1,6 @@
+A short description is provided below:
+- Plays two songs with buzzer by button presses
+- Displays song titles on LCD
+- LEDs change according to pitch (Higher pitch == more LEDs)
+
+A link to the video: https://www.youtube.com/watch?v=yytDFpgSpD4
